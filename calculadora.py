@@ -1,5 +1,5 @@
-def somar (a, b):
-    return a + b
+def somar (b, c):
+    return b + c
 
 print(somar(2,3))
 
