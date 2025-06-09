@@ -1,7 +1,7 @@
 def somar (b, c):
     return b + c
 
-print(somar(2,3))
+print(somar(5,3))
 
 # branch multiplicação
 def multiplicar(a, b):
